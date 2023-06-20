@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deliciousrecipe/static/css/main.7ac88daa.css",
+    "main.js": "/deliciousrecipe/static/js/main.debab921.js",
+    "index.html": "/deliciousrecipe/index.html",
+    "main.7ac88daa.css.map": "/deliciousrecipe/static/css/main.7ac88daa.css.map",
+    "main.debab921.js.map": "/deliciousrecipe/static/js/main.debab921.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac88daa.css",
+    "static/js/main.debab921.js"
+  ]
+}
